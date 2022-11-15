@@ -1,0 +1,42 @@
+? ------- {?} ------- ?
+
+Como configurar inicialmente el bot:
+     
+     #set in debug
+214- tl_admin_user = ''
+
+     #set in debug
+488- bot_token = ''
+
+? ------- {?} ------- ?
+
+Comandos de admin:
+
+start - Comprueba si el bot está vivo.(/start)
+help - Muestra una guía de usuario con la explicación de los comandos.(/help)
+myuser - Muestra la configuración actual del bot.(/myuser)
+uclv - Establece la configuración predeterminada de https://moodle.uclv.edu.cu/.(/uclv)
+evea - Establece la configuración predeterminada de https://evea.uh.cu/.(/evea)
+acc - Establece el usuario y la contraseña del bot.(/acc username,password)
+proxy - Establece el proxy del bot.(/proxy socks5://encriptado)
+/add - Autorizar a un usuario para usar el bot.(/add username)
+/ban - Quitar autorizacón a un usuario del bot.(/ban username)
+/db - Muestra la base de datos del bot.(/db)
+/token - Obtiene un token de la nube para el bot.(/token)
+/delete - Elimina un archivo de la nube.(/delete enlace)
+/uptype - Establece el tipo de subida a la nube del bot.(/uptype (evidence,draft,blog,calendar))
+/repo - Establece el identificador del repositorio de la nube del bot.(/repo id)
+/host - Establece el servidor de la nube del bot.(/host cloud_url)
+/zips - Configura el tamaño de las partes en que comprime el bot.(/zips zips_size)
+
+Comandos de usuario:
+
+start - Comprueba si el bot está vivo.(/start)
+help - Muestra una guía de usuario con la explicación de los comandos.(/help)
+myuser - Muestra la configuración actual del bot.(/myuser)
+uclv - Establece la configuración predeterminada de https://moodle.uclv.edu.cu/.(/uclv)
+evea - Establece la configuración predeterminada de https://evea.uh.cu/.(/evea)
+acc - Establece el usuario y la contraseña del bot.(/acc username,password)
+proxy - Establece el proxy del bot.(/proxy socks5://encriptado)
+
+? ------- {?} ------- ?
