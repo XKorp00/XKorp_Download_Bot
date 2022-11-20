@@ -1,2 +1,4 @@
-### Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XKorp00/XKorp_Download_Bot)
+
+## Deploy in One Click
+
+[![Deploy to Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/XKorp00/1)
